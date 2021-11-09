@@ -1,2 +1,2 @@
-# JS_Application
+# WebApplication
 test task for junior Java Developer
